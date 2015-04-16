@@ -1,0 +1,74 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+# 
+newmtl WoodenBox1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture3\\WoodenBoxD1.tga
+map_Bump Texture3\\WoodenBoxN1.tga
+
+
+newmtl WoodenBox2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture3\\WoodenBoxD2.tga
+map_Bump Texture3\\WoodenBoxN2.tga
+
+
+newmtl WoodenBox3
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture3\\WoodenBoxD3.tga
+map_Bump Texture3\\WoodenBoxN3.tga
+
+
+newmtl WoodenBox4
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture3\\WoodenBoxD4.tga
+map_Bump Texture3\\WoodenBoxN4.tga
+
+
+newmtl WoodenBox5
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture3\\WoodenBoxD5.tga
+map_Bump Texture3\\WoodenBoxN5.tga
+
+
+newmtl WoodenBox6
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Texture3\\WoodenBoxD6.tga
+map_Bump Texture3\\WoodenBoxN6.tga
+
+

@@ -1,0 +1,33 @@
+﻿Build started 27/01/2015 13:06:17.
+     1>Project "C:\Users\fali\developement\Lab3\Lab3\Lab3.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\fali\developement\Lab3\ImageMagick-6" /IC:\Users\fali\developement\Lab3\assimp /IC:\Users\fali\developement\Lab3 /I"C:\Users\fali\developement\Lab3\glew-1.10.0\include" /I"C:\Users\fali\developement\Lab3\glfw-3.0.4.bin.WIN32\include\GLFW" /IC:\Users\fali\developement\Lab3\glm /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>c:\users\fali\developement\lab3\main.cpp(108): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(147): warning C4244: '=' : conversion from '__int64' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(240): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(247): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(275): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\fali\developement\lab3\main.cpp(281): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(292): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(341): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(352): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(375): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(434): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\fali\developement\lab3\main.cpp(437): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fali\developement\Lab3\Debug\Lab3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\fali\developement\Lab3\glew-1.10.0\lib" /LIBPATH:"C:\Users\fali\developement\Lab3\glew-1.10.0\lib\Release\Win32" /LIBPATH:"C:\Users\fali\developement\Lab3\glfw-3.0.4.bin.WIN32\lib-msvc110" /LIBPATH:C:\Users\fali\developement\Lab3 opengl32.lib glfw3.lib glew32.lib assimp.lib CORE_DB_Magick++_.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\fali\developement\Lab3\Debug\Lab3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\fali\developement\Lab3\Debug\Lab3.lib" /MACHINE:X86 Debug\controls.obj
+         Debug\main.obj
+         Debug\math_3d.obj
+         Debug\MeshLoader.obj
+         Debug\ogldev_util.obj
+         Debug\shader.obj
+         Debug\TextureMesh.obj
+         Lab3.vcxproj -> C:\Users\fali\developement\Lab3\Debug\Lab3.exe
+     1>Done Building Project "C:\Users\fali\developement\Lab3\Lab3\Lab3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.61
